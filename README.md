@@ -32,4 +32,7 @@ Pondré algunos extras/ideas que se me ocurren mientras codeo.
 
 ### Navbar
 
-(Por implementar) Al hacer scroll el navbar cambia de transparente a tener un background color. 
+🆗 Al hacer scroll el navbar cambia de transparente a tener un background color. 
+
+### Nice Hero Slider
+(Pending) [Enlace](https://www.youtube.com/watch?v=zVjAA6UxvtU) Implementar un carousel bonito en header
